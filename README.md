@@ -21,10 +21,10 @@
 ![Tampilan awal](./assets/ulos.jpeg)
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+![search](./assets/kemeja.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+![empty](./assets/sepatu.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
