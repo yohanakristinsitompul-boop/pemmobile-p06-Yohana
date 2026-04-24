@@ -1,8 +1,8 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Nama Kamu]
-- NIM:  [NIM Kamu]
+- Nama: [Yohana Sitompul]
+- NIM:  [243303621205]
 
 ## Fitur yang Diimplementasikan
 - [x] FlatList dengan 12+ produk
@@ -18,7 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+![Tampilan awal](./assets/ulos.jpeg)
 
 ### Tampilan Search — saat ada hasil
 [screenshot HP fisik di sini]
